@@ -2,4 +2,9 @@ hello world!
 hello world!!!!
 
 update4.1
+<<<<<<< HEAD
 update4.111111
+=======
+update4.2
+update4.3
+>>>>>>> dev
